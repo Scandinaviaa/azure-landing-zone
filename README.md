@@ -1,4 +1,4 @@
-# azure-landing-zone
+# Azure-landing-zone
 Azure Landing Zone
 
 # Requirements
