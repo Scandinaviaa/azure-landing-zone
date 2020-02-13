@@ -1,7 +1,7 @@
 # Azure-landing-zone
 Azure Landing Zone
 
-# Requirements
+# 필요조건
 
 
 # Developing the Provider
