@@ -5,7 +5,7 @@
 
 
 # 2.필요조건
-2.1 Terraform 설치는 링크를 참조한다.
+2.1 [Terraform 설치:https://sarc.io/index.php/cloud/1743-linux-terraform-installation]는 링크를 참조한다.
 [https://sarc.io/index.php/cloud/1743-linux-terraform-installation]
 
 # Developing the Provider
