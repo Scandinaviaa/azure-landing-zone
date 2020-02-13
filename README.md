@@ -10,9 +10,9 @@
 
 
 # 3. Infrastructure Diagram
-3.1 계정 관리
-3.2 식별 및 접근관리 (IAM - Identity and Access Management)
-3.3 보안 및 거버넌스 관리
+3.1 계정 관리  
+3.2 식별 및 접근관리 (IAM - Identity and Access Management)  
+3.3 보안 및 거버넌스 관리  
 
 # Developing the Provider
 
