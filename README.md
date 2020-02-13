@@ -8,6 +8,12 @@
 2.1 Terraform 설치는 다음 링크를 참조한다.
 [https://sarc.io/index.php/cloud/1743-linux-terraform-installation]
 
+
+# 3. Infrastructure Diagram
+3.1 계정 관리
+3.2 식별 및 접근관리 (IAM - Identity and Access Management)
+3.3 보안 및 거버넌스 관리
+
 # Developing the Provider
 
 
