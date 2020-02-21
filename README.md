@@ -10,7 +10,7 @@
 
 
 # 3. Infrastructure Diagram
-3.1 계정 관리
+3.1 계정 관리  
   3.1.1 유저  
   3.1.1 그룹  
 3.2 식별 및 접근관리 (IAM - Identity and Access Management)  
