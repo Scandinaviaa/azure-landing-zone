@@ -12,7 +12,7 @@
 # 3. Infrastructure Diagram
 ![02_hubspoke4](https://user-images.githubusercontent.com/30038150/75123212-d853e680-56e8-11ea-8c40-330ba8050592.png)  
 
-3.1 계정 관리 (리소스 그룹 관리)
+3.1 계정 관리 - Azure Resource Group (리소스 그룹 관리)  
   3.1.1 유저  
   3.1.1 그룹  
 3.2 식별 및 접근관리 (IAM - Identity and Access Management)  
