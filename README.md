@@ -16,7 +16,8 @@
 # 4. 구성요소
 <H3>4.1 Azure Subscription</H3>  
 <H3>Azure Subcription은 블라블라~~   </H3>  
-![Azure Line of Business](https://user-images.githubusercontent.com/30038150/75131075-9fca0200-5714-11ea-9e6c-5489c7049363.png)
+![Azure Line of Business](https://user-images.githubusercontent.com/30038150/75136202-3acbd780-5727-11ea-8c18-e093fdd0c386.png)  
+
 
 <H3>4.2 Azure Resource Group</H3>  
 리소스 그룹- Azure 솔루션의 관련 리소스를 보관하는 컨테이너입니다. 리소스 그룹에 솔루션의 모든 리소스를 포함할 수도 있고 그룹으로 관리할 리소스만 포함할 수도 있습니다. 무엇이 조직에 가장 적합한지에 따라 리소스 그룹에 리소스를 할당할 방법을 결정합니다.  
