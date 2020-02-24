@@ -14,27 +14,36 @@
 
 
 # 4. 구성요소
-<H3>4.1 Azure Subscription</H3>  
-<H3>Azure Subcription은 블라블라~~   </H3>  
 
+<H3>4.1 계정관리</H3>  
+<H3>4.1.1 Azure Subscription</H3>  
+<H3>Azure Subcription은 블라블라~~   </H3>  
 ![Azure Line of Business](https://user-images.githubusercontent.com/30038150/75136202-3acbd780-5727-11ea-8c18-e093fdd0c386.png)  
 
 
-<H3>4.2 Azure Resource Group</H3>  
+<H3>4.1.2 Azure Resource Group</H3>  
 리소스 그룹- Azure 솔루션의 관련 리소스를 보관하는 컨테이너입니다. 리소스 그룹에 솔루션의 모든 리소스를 포함할 수도 있고 그룹으로 관리할 리소스만 포함할 수도 있습니다. 무엇이 조직에 가장 적합한지에 따라 리소스 그룹에 리소스를 할당할 방법을 결정합니다.  
 
+<H3>4.1.3 Users and Group/H3>    
+
+<H3>4.2 식별 및 접근관리 (IAM - Identity and Access Management)</H3>  
+<H3>4.2.1 인증관리/H3>  
+
+<H3>4.3보안 및 거버넌스 관리</H3>  
+
+<H3>4.4 모니터링 및 공통서비스</H3>  
+    <H3>4.4.0 통합로그</H3)
+    <H3>4.4.1 VM</H3> 
+    <H3>4.4.2 스토리지</H3>  
+    <H3>4.4.3 어플리케이션</H3>  
+    <H3>4.4.4 로드밸런싱</H3>  
+    <H3>4.4.5 네트워크 구간</H3>  
+    <H3>4.4.6 Container</H3> 
+    <H3>4.4.7 Platform As A Service</H3>  
+    <H3>4.4.8 Software As A Service</H3>  
+    <H3>4.4.9 알람</H3>  
 
 
-  3.1.1 유저  
-  3.1.1 그룹  
-3.2 식별 및 접근관리 (IAM - Identity and Access Management)  
-3.3 인증관리
-3.3 보안 및 거버넌스 관리
-3.4 로그 관리
-3.5 네트워크
-3.6 공통서비스  
-  3.6.1 네트워크 모니터링, 인프라 모니터링, 알람, 어플리케이션, 시스템
-  3.6.2 
 3.7 컨테이너 관리
 3.8 자동화 관리
 3.9 배치
