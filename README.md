@@ -5,8 +5,8 @@
 
 
 # 2.사전 설치조건
-  <H3>2.1 Terraform 설치는 다음 링크를 참조한다.  </H3>  
-  [https://sarc.io/index.php/cloud/1743-linux-terraform-installation]  
+<H3>2.1 Terraform 설치는 다음 링크를 참조한다.  </H3>  
+<H3>[https://sarc.io/index.php/cloud/1743-linux-terraform-installation]</H3>    
 
 # 3. Infrastructure Diagram  
 ![iso27001-ase-sql-workload-blueprint-sample-design](https://user-images.githubusercontent.com/30038150/75132423-32b96b00-571a-11ea-8c1a-0a0870720862.png)  
@@ -48,7 +48,10 @@
 3.14 QA환경  
 3.15 샌드박스 환경  
 
-
+# 5. 예상 비용
+<H3>5.1 리소스 비용</H3>  
+<H3>5.2 테스트 비용</H3>  
+<H3>5.3 기타 비용</H3>  
 
 # Developing the Provider
 
