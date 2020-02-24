@@ -5,7 +5,7 @@
 
 
 # 2.필요조건
-> <H3>2.1 Terraform 설치는 다음 링크를 참조한다.  </H3>
+  <H3>2.1 Terraform 설치는 다음 링크를 참조한다.  </H3>
 [https://sarc.io/index.php/cloud/1743-linux-terraform-installation]  
 
 # 3. Infrastructure Diagram  
