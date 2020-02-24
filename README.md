@@ -4,7 +4,7 @@
 본 Repository 에서는 Azure용 Landing-Zone 구현을 설명한다.
 
 
-# 2.필요조건
+# 2.사전 설치조건
   <H3>2.1 Terraform 설치는 다음 링크를 참조한다.  </H3>  
   [https://sarc.io/index.php/cloud/1743-linux-terraform-installation]  
 
