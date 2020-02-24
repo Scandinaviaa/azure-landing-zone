@@ -26,12 +26,12 @@
 
 <H3>4.1.3 Users and Group/H3>    
 
-<H3>4.2 식별 및 접근관리 (IAM - Identity and Access Management)</H3>  
+<H2>4.2 식별 및 접근관리 (IAM - Identity and Access Management)</H2>  
 <H3>4.2.1 인증관리/H3>  
 
-<H3>4.3보안 및 거버넌스 관리</H3>  
+<H2>4.3 보안 및 거버넌스 관리</H2>  
 
-<H3>4.4 모니터링 및 공통서비스</H3>  
+<H2>4.4 모니터링 및 공통서비스</H2>  
         <H3>4.4.0 통합로그</H3>  
         <H3>4.4.1 VM</H3> 
     <H3>4.4.2 스토리지</H3>  
