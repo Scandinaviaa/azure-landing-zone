@@ -9,7 +9,7 @@
 [https://sarc.io/index.php/cloud/1743-linux-terraform-installation]  
 
 
-# 3. Infrastructure Diagram
+# 3. Infrastructure Diagram  
 ![02_hubspoke4](https://user-images.githubusercontent.com/30038150/75123212-d853e680-56e8-11ea-8c40-330ba8050592.png)  
 
 3.1 Azure Subscription  
@@ -17,7 +17,7 @@
 3.2 Azure Resource Group  
 리소스 그룹- Azure 솔루션의 관련 리소스를 보관하는 컨테이너입니다. 리소스 그룹에 솔루션의 모든 리소스를 포함할 수도 있고 그룹으로 관리할 리소스만 포함할 수도 있습니다. 무엇이 조직에 가장 적합한지에 따라 리소스 그룹에 리소스를 할당할 방법을 결정합니다.  
 
-3.1 계정 관리 - Azure Resource Group (리소스 그룹 관리)
+3.1 계정 관리 - Azure Resource Group (리소스 그룹 관리)  
 ![Azure Line of Business](https://user-images.githubusercontent.com/30038150/75131075-9fca0200-5714-11ea-9e6c-5489c7049363.png)
 
   3.1.1 유저  
